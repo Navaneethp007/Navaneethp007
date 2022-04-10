@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Navaneethp007/Navaneethp007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+> <p align="center"> The name is Navaneeth Prabha</p>
+
+
 - 🔭 I’m currently working on ***App development using flutter***
 - 🌱 I’m currently learning ***Product Design and Web Development***
 - 💬 Ask me about ***Competitve Programming/Coding Challenges***
