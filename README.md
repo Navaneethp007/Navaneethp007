@@ -1,6 +1,7 @@
-### Hi there 👋
+<h1><p align="left">Hi there 👋</p></h1>
 
-> <p align="center"> The name is Navaneeth Prabha</p>
+
+> <h2><p align="center"> The name is Navaneeth Prabha👏👏</p></h2>
 
 
 - 🔭 I’m currently working on ***App development using flutter***
@@ -8,6 +9,7 @@
 - 💬 Ask me about ***Competitve Programming/Coding Challenges***
 - 📫 How to reach me: ***nvps742@gmail.com***
 - ⚡ Fun fact: ***I get into the main character of a film after watching it***
+
 
 <h1 align="left">Connect with me</h1>
 <p align="left">
