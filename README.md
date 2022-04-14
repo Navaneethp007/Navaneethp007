@@ -32,15 +32,15 @@
 
 <h1 align="left">Platforms used</h1>
 <p align="left">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" heigth="30" width="40"/>
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" heigth="30" width="40"/>
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" heigth="30" width="40"/>
-  <img align="center" src="https://external-preview.redd.it/BUHTPzA2QmS2hlvfgFEO3FEc0dPDBuVlmzh9Gm7YXSQ.jpg?auto=webp&s=e266b8e5468f79325a302cd27033412424185b17" heigth="30" width="40" />
-  <img align="center" src="https://www.svgrepo.com/show/354202/postman-icon.svg" heigth="30" width="40"/>
-  <img align="center" src="https://static.cdnlogo.com/logos/f/30/flutter.svg" heigth="30" width="40"/>
-  <img align="center" src="https://media-exp1.licdn.com/dms/image/C560BAQGqbQqGLrllzQ/company-logo_400_400/0/1641201041884?e=1656547200&v=beta&t=uadwkMMNOUzSwj_6wp2QcVNT8n48icN92wpXws4MSf8" heigth="30" width="40"/>
-  <img align="center" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_060528149c093ad5a64d6d8428c514c5/hackerrank-developer-skills-platform.png" heigth="30" width="40"/>
-  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmWgi-toAp3I-2-kPC-GMuF1RZNCL2SiDtSWY1nU3KWvYhAhOOB1G28p55TkIFzYSplM&usqp=CAU" heigth="30" width="40"/>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" heigth="40" width="40"/>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" heigth="40" width="40"/>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" heigth="40" width="40"/>
+  <img align="center" src="https://external-preview.redd.it/BUHTPzA2QmS2hlvfgFEO3FEc0dPDBuVlmzh9Gm7YXSQ.jpg?auto=webp&s=e266b8e5468f79325a302cd27033412424185b17" heigth="40" width="40" />
+  <img align="center" src="https://www.svgrepo.com/show/354202/postman-icon.svg" heigth="40" width="40"/>
+  <img align="center" src="https://static.cdnlogo.com/logos/f/30/flutter.svg" heigth="40" width="40"/>
+  <img align="center" src="https://media-exp1.licdn.com/dms/image/C560BAQGqbQqGLrllzQ/company-logo_400_400/0/1641201041884?e=1656547200&v=beta&t=uadwkMMNOUzSwj_6wp2QcVNT8n48icN92wpXws4MSf8" heigth="40" width="40"/>
+  <img align="center" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_060528149c093ad5a64d6d8428c514c5/hackerrank-developer-skills-platform.png" heigth="40" width="40"/>
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmWgi-toAp3I-2-kPC-GMuF1RZNCL2SiDtSWY1nU3KWvYhAhOOB1G28p55TkIFzYSplM&usqp=CAU" heigth="40" width="40"/>
 </p>
 
 <h1 align="left">Connect with me</h1>
@@ -51,4 +51,6 @@
   <a href="discordapp.com/users/803281823903252490" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/discord-3691244-3073764.png" heigth="30" width="40"/></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiNavaneethp007anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+---
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Navaneethp007&show_icons=true&theme=cobalt&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneethp007&layout=compact"/>
