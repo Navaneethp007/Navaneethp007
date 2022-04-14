@@ -50,3 +50,5 @@
   <a href="https://www.linkedin.com/in/navaneethprabha/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" heigth="30" width="40"/></a>
   <a href="discordapp.com/users/803281823903252490" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/discord-3691244-3073764.png" heigth="30" width="40"/></a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiNavaneethp007anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
