@@ -1,8 +1,7 @@
-<img src="https://i.pinimg.com/originals/b8/05/78/b8057806417db6a1b311521d75146f8e.jpg"
+<img align="center" src="https://i.pinimg.com/originals/af/1d/bb/af1dbb202715f8aa77a5228297b5a64f.jpg"
    alt="Short Image Description"
    style="float: left; margin-right: 80px;" 
    /> 
-
 
 - 🔭 I’m currently working on ***App development using flutter***
 
