@@ -3,7 +3,7 @@
    
    
    <img align="left" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/Gitm%20(1).png" height="200" width="200"/>
-   <img align="right" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/git%20pro%20(4).gif" width="700"/>
+   <img align="center" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/git%20pro%20(4).gif" width="500"/>
    
   
 
