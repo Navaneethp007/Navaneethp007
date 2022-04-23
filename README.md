@@ -14,6 +14,19 @@
 
    <br>
    <br>
+   So basically in the broad daylight, I am a Computer Science and Engineering (in short CSE) student at an Engineering College…..but at night, I am your friendly neighbour hood coder/developer.
+
+I have 2 (ongoing)wonderful years of experience in competitive programming…but still I am a beginner (irony huh 🤔). It all started when I attended one of the CodeChef starters and solved a question 🎉🎉 That stirred up my curiosity and interest in competitive programming. So you can ask me a question about Competitive Programming and I can give an answer which will be 90% true ( rest depends on the question)
+
+My developer journey started from a simple hackathon which showed me being developer is not all about coding…so then I started doing random projects in flutter (since it was easy to learn). And at last…I won an hackathon for one of my projects ( just show off)
+
+Many of the tech stacks that I now know of are only because of MLH events such as lhd and ghw. These events had many small projects (both coding and non-coding) which involved usage of different tech stacks. This is how I learned most of the tech stacks.
+
+This is being mentioned since YouTube tutorials are not the only way to learn different things 
+
+Now coming to the fun part of being me….I kind of become a character in a movie which I just watched. You might think it’s weird, but it’s not…instead it is super fun, makes you feel like in a multiverse
+
+Well that’s it…but if you are not bored, you can just check out rest of my stuff
    <br>
    
   
