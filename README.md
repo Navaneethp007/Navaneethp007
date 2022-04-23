@@ -5,9 +5,11 @@
    <img align="left" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/Gitm%20(1).png" height="200" width="200"/>
    <img align="center" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/git%20pro%20(4).gif" width="500"/>
    <br>
+   <br>
+   <br>
    
   
 
 ---
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Navaneethp007&show_icons=true&theme=cobalt&hide_border=true"/> <br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Navaneethp007&show_icons=true&theme=cobalt&hide_border=true"/> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneethp007&layout=compact"/>
