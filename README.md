@@ -12,4 +12,4 @@
 
 ---
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Navaneethp007&show_icons=true&theme=cobalt&hide_border=true"/> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneethp007&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneethp007&layout=compact"/>
