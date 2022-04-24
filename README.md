@@ -28,6 +28,8 @@ Well that’s it for the intro😌...but if you are not bored😉, you can just 
    
   <h1 align="left">Platforms used</h1>
   <img align="left" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/Git%20(68%20%C3%97%2010%20in)%20(2).png" heigth="100"/>
+  <h1 align="left">Platforms used</h1>
+  <img align="left" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/Git%20(68%20%C3%97%2010%20in)%20(4).png" heigth="100"/>
 
 ---
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Navaneethp007&show_icons=true&theme=cobalt&hide_border=true"/> 
