@@ -14,20 +14,20 @@
 
    <br>
    <br>
-   So basically in the broad daylight☀, I am a _Computer Science and Engineering (in short CSE) student at an Engineering College_…but at night🌚, I am your *friendly neighbour hood coder/developer*💻.
+   So basically in the broad daylight☀, I am a <i>Computer Science and Engineering (in short CSE) student at an Engineering College</i>...but at night🌚, I am your <i>friendly neighbour hood coder/developer</i>💻.
 <br>
 <br>
 
-I have 2 (ongoing) wonderful years of experience in competitive programming…but still I am a beginner (irony huh 🤔). It all started when I attended one of the CodeChef starters and solved a question 🎉🎉 That stirred up my curiosity and interest in competitive programming. So you can ask me a question about Competitive Programming (better to ask google😂) and I can give an answer which will be 90% true
+I have 2 (ongoing) wonderful years of experience in <b>competitive programming</b>...but still I am a beginner (irony huh 🤔). It all started when I attended one of the CodeChef starters and solved a question 🎉🎉 That stirred up my curiosity and interest in competitive programming. So you can ask me a question about Competitive 
+Programming (better to ask google😂) and I can give an answer which will be 90% true. My developer journey started from a simple hackathon which showed me being developer is not all about coding…so then I started doing random projects in flutter (since it was easy to learn). And yes...I have won an hackathon for one of my projects (just wanted show off😅🤣)
 
-My developer journey started from a simple hackathon which showed me being developer is not all about coding…so then I started doing random projects in flutter (since it was easy to learn). And at last…I won an hackathon for one of my projects (just wanted show off😅🤣)
+Now coming to the fun part of being me🤗...<i>I kind of become a character🦸‍♂️ in a movie which I just watched and bring a twist to the movie in my imagination</i>😁. You might think it’s weird, but it’s not...instead it is super fun, makes you feel like being in a multiverse🎡. Also <b><i>I am the king🤴 of Procrastination!!!!</i></b>
 
-Now coming to the fun part of being me….I kind of become a character in a movie which I just watched. You might think it’s weird, but it’s not…instead it is super fun, makes you feel like in a multiverse
-
-Well that’s it…but if you are not bored, you can just check out rest of my stuff
+Well that’s it for the intro😌...but if you are not bored😉, you can just <i>check out rest of my stuff✨</i>
    <br>
    
-  
+  <h1 align="left">Platforms used</h1>
+  <img align="left" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/Git%20(68%20%C3%97%2010%20in)%20(2).png" heigth="100"/>
 
 ---
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Navaneethp007&show_icons=true&theme=cobalt&hide_border=true"/> 
