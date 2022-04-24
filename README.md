@@ -14,7 +14,7 @@
 
    <br>
    <br>
-   So basically in the broad daylight☀, I am a *Computer Science and Engineering (in short CSE) student at an Engineering College*…..but at night🌚, I am your *friendly neighbour hood coder/developer*💻.
+   So basically in the broad daylight☀, I am a _Computer Science and Engineering (in short CSE) student at an Engineering College_…but at night🌚, I am your *friendly neighbour hood coder/developer*💻.
 <br>
 <br>
 
