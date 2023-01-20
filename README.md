@@ -27,7 +27,7 @@ Well that’s it for the intro😌...but if you are not bored😉, you can just 
    <br>
    
   <h1 align="left">Frequently used platforms by me</h1>
-  <img align="left" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/Git%20(68%20%C3%97%2010%20in)%20(2).png" heigth="100"/>
+  <img align="left" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/Git%20(68%20x%2010%20in)%20(2).png" heigth="100"/>
   <h1 align="left">Frequently used languages used by me</h1>
   <img align="left" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/Git%20(68%20%C3%97%2010%20in)%20(4).png" heigth="100"/>
 
