@@ -15,10 +15,9 @@
 <br>
 <br>
 
-I have 2 (ongoing) wonderful years of experience in <b>competitive programming</b>...but still I am a beginner (irony huh 🤔). It all started when I attended one of the CodeChef starters and solved a question 🎉🎉 That stirred up my curiosity and interest in competitive programming. So you can ask me a question about Competitive 
+I have 3 (ongoing) wonderful years of experience in <b>competitive programming</b>...but still I am a beginner (irony huh 🤔). It all started when I attended one of the CodeChef starters and solved a question 🎉🎉 That stirred up my curiosity and interest in competitive programming. So you can ask me a question about Competitive 
 Programming (better to ask google😂) and I can give an answer which will be 90% true. My developer journey started from a simple hackathon which showed me <b><i>being developer is not all about coding</b></i>...so then I started doing random projects in flutter (since it was easy to learn). And yes...I have won an hackathon for one of my projects (just wanted show off😅🤣)
 
-Now coming to the fun part of being me🤗...<i>I kind of become a character🦸‍♂️ in a movie which I just watched and bring a twist to the movie in my imagination</i>😁. You might think it’s weird, but it’s not...instead it is super fun, makes you feel like being in a multiverse🎡. Also <b><i>I am the king🤴 of Procrastination!!!!</i></b>
 
 Well that’s it for the intro😌...but if you are not bored😉, you can just <i>check out rest of my stuff✨</i>
    <br>
