@@ -1,5 +1,5 @@
 
-   <img align="left" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/Gitm%20(1).png" height="200" width="200"/>
+   <img align="left" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/Gitm(1).png" height="200" width="200"/>
    <img align="center" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/git%20pro%20(5).gif" width="600"/>
    <br>
    <p align="left">
