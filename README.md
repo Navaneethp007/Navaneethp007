@@ -1,32 +1,24 @@
-
-   <img align="left" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/Gitm(1).png" height="200" width="200"/>
-   <img align="center" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/git%20pro%20(5).gif" width="600"/>
-   <br>
-   <p align="left">
-  <a href="https://twitter.com/nvp007_prabha" target="blank"><img align="center"    src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" heigth="60" width="60" /></a>
-  <a href="https://www.instagram.com/nah_its_me._nvp/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" heigth="60" width="60"/></a>
-  <a href="https://www.linkedin.com/in/navaneethprabha/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" heigth="60" width="60"/></a>
-  <a href="discordapp.com/users/803281823903252490" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/discord-3691244-3073764.png" heigth="60" width="60"/></a>
-    </p>
-
-   <br>
-   <br>
-   So basically in the broad daylight☀, I am a <i>Computer Science and Engineering (in short CSE) student at an Engineering College</i>...but at night🌚, I am your <i>friendly neighbour hood coder/developer</i>💻.
-<br>
-<br>
-
-I have 3 (ongoing) wonderful years of experience in <b>competitive programming</b>...but still I am a beginner (irony huh 🤔). It all started when I attended one of the CodeChef starters and solved a question 🎉🎉 That stirred up my curiosity and interest in competitive programming. So you can ask me a question about Competitive 
-Programming (better to ask google😂) and I can give an answer which will be 90% true. My developer journey started from a simple hackathon which showed me <b><i>being developer is not all about coding</b></i>...so then I started doing random projects in flutter (since it was easy to learn). And yes...I have won an hackathon for one of my projects (just wanted show off😅🤣)
+# 💫 About Me:
+🔭 I am currently working on app development projects.<br>👯 I am looking to collaborate on front-end app development and startup ventures.<br>💬 I am currently learning and improving my skills in React Native for developing mobile apps.<br>⚡ Fun fact: I am an introverted extrovert.
 
 
-Well that’s it for the intro😌...but if you are not bored😉, you can just <i>check out rest of my stuff✨</i>
-   <br>
-   
-  <h1 align="left">Frequently used platforms by me</h1>
-  <img align="left" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/Git%20(68%20x%2010%20in)%20(2).png" heigth="100"/>
-  <h1 align="left">Frequently used languages used by me</h1>
-  <img align="left" src="https://github.com/Navaneethp007/Navaneethp007/blob/main/Git%20(68%20%C3%97%2010%20in)%20(4).png" heigth="100"/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nah_its_me._nvp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/navaneethprabha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nvp007_prabha) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Navaneethp007&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Navaneethp007&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneethp007&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Navaneethp007&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Navaneethp007&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Navaneethp007&show_icons=true&theme=cobalt&hide_border=true"/> 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneethp007&layout=compact"/>
+[![](https://visitcount.itsvg.in/api?id=Navaneethp007&icon=3&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
