@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on app development projects.<br>👯 I am looking to collaborate on front-end app development and startup ventures.<br>💬 I am currently learning and improving my skills in React Native for developing mobile apps.<br>⚡ Fun fact: I am an introverted extrovert.
+🔭 I am currently working on app development projects.<br>👯 I want to collaborate on front-end app development and startup ventures.<br>💬 I am presently learning and improving my skills in React Native and Ruby on Rails for developing mobile apps.<br>⚡ Fun fact: I am an introverted extrovert.
 
 
 ## 🌐 Socials:
