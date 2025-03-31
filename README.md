@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently working on mobile app development projects.<br>👯 I want to collaborate on full-stack app development, innovative mobile solutions, and startup ventures.<br>💬 I’m improving my skills in React Native for mobile development and Django and Ruby on Rails for robust backend integration.<br>⚡ Fun fact: I am an introverted extrovert.
+🚀 I’m currently working on backend development and AI projects.<br>👯 I want to collaborate on full-stack development, innovative mobile solutions, and startup ventures.<br>💬 I’m improving my skills in React Native and Flutter for mobile development and Django and FastAPI for robust backend integration.<br>⚡ Fun fact: I am an introverted extrovert.
 
 
 ## 🌐 Socials:
