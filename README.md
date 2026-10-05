@@ -16,9 +16,9 @@ navaneeth@github:~$ ls stack/
 > languages/  frontend/  backend/  data/
 
 navaneeth@github:~$ cat stack/*
-> languages   typescript · javascript · python · c# · c++ · dart
-> frontend    react · react-native · vite · tailwind · flutter
-> backend     node · express · nestjs · .net · fastapi
+> languages   typescript · javascript · python · c++ 
+> frontend    react · react-native · nextjs
+> backend     express · nestjs · .net · fastapi
 > data        postgresql · sqlite · docker · aws
 
 navaneeth@github:~$ ./now --status
